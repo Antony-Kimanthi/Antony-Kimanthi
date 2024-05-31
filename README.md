@@ -6,9 +6,7 @@
 
 
 
-- 🔭 I’m currently working on [Churn Prediction in Telecom Industry: Identifying High-Risk Customers and Key Indicators](https://omdena.com/chapter-challenges/churn-prediction-for-telecom-industry-identifying-high-risk-customers-and-key-indicators/)
-
-- 🌱 I’m currently learning **R programming/ ML**
+- 🌱 I’m currently learning **R programming & Machine Learning**
 
 - 📫 How to reach me **antonykimanthi.tk@gmail.com**
 
